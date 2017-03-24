@@ -1,0 +1,3 @@
+AlfaRomeo;GT;AR.png;#FF0000;12000;1;238;3179;1410;2;7200;6;Alfa_Romeo_GT_Detail.png;Alfa_Romeo_GT.png;Wheel5.png;Alfa_Romeo_GT_Disk.png;6;30;192
+Toyota;Supra Mk4;Toyota.png;#00FF00;17000;1;330;2997;1550;1;6800;5;Toyota_Supra_Detail.png;Toyota_Supra.png;Wheel5.png;Toyota_Supra_Disk.png;-6;38;185
+Volkswagen;Golf GTI;VW.png;#FF0000;10000;1;220;1984;1295;2;6000;6;Golf_GTI_Detail.png;Golf_GTI.png;Wheel5.png;Golf_GTI_Disk.png;0;17;190

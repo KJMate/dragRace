@@ -1,0 +1,2 @@
+AlfaRomeo;GT;AR.png;#FF0000;12000;1;238;3179;1410;2;7200;6;Alfa_Romeo_GT_Detail.png;Alfa_Romeo_GT.png;Wheel5.png;Alfa_Romeo_GT_Disk.png;6;30;192
+BMW;M3;BMW.png;#A0A0A0;20000;2;210;2003;1500;1;9000;6;BMW_M3_Detail.png;BMW_M3.png;Wheel5.png;BMW_M3_Disk.png;15;38;204

@@ -1,0 +1,8 @@
+//marka;tipus;logo;szin;ár;szint;lóerő;tömeg;kobtenci;meghajás;fordulatszám;sebesség fokozatok;detail;sima;kerék;fék;ültetés;kardanTengelyTavolsag;hátó
+AlfaRomeo;GT;AR.png;#FFD700;12000;1;238;3179;1410;2;7200;6;Alfa_Romeo_GT_Detail.png;Alfa_Romeo_GT.png;Wheel5.png;Alfa_Romeo_GT_Disk.png;6;30;192
+Toyota;Supra Mk4;Toyota.png;#00FF00;17000;1;330;2997;1550;1;6800;5;Toyota_Supra_Detail.png;Toyota_Supra.png;Wheel5.png;Toyota_Supra_Disk.png;-6;38;185
+Volkswagen;Golf GTI;VW.png;#0000FF;10000;1;220;1984;1295;2;6000;6;Golf_GTI_Detail.png;Golf_GTI.png;Wheel5.png;Golf_GTI_Disk.png;0;17;190
+BMW;328isE36;BMW.png;#00BFFF;13000;1;190;2793;1395;1;7000;5;BMW_E36_Detail.png;BMW_E36.png;Wheel5.png;BMW_E36_Disk.png;-3;35;196
+Honda;IntegraTypeR;Honda.png;#FF0000;14000;1;195;1797;1080;2;9000;5;Honda_Integra_Detail.png;Honda_Integra.png;Wheel5.png;Honda_Integra_Disk.png;14;29;185
+Mazda;Mx-5;Mazda.png;#FF4500;14000;1;168;1999;1100;1;6500;6;Mazda_MX5_Detail.png;Mazda_MX5.png;Wheel5.png;Mazda_MX5_Disk.png;14;23;178
+BMW;M3;BMW.png;#000000;20000;2;210;2003;1500;1;9000;6;BMW_M3_Detail.png;BMW_M3.png;Wheel5.png;BMW_M3_Disk.png;15;38;204
